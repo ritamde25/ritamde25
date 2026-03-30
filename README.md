@@ -2,7 +2,7 @@
 
 I'm Ritam.
 
-I build full-stack systems — from mobile apps to scalable backends and real-time infrastructure. Currently working on production-grade applications with Flutter, WebSockets, and distributed systems.
+I build full-stack systems — from mobile apps to scalable backends and real-time infrastructure. Currently working on production-grade applications with Flutter and WebSockets.
 
 ## `$ whoami`
 
